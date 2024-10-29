@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.15.1" profile_name="" scanner="nmap" start="1726028869" startstr="Wed Sep 11 09:57:49 2024" version="7.95" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.95 ( https://nmap.org ) at 2024-09-11 09:57 India Standard Time
+Nmap scan report for 192.168.15.1
+Host is up (0.0010s latency).
+Nmap done: 1 IP address (1 host up) scanned in 0.47 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.15.1" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1726028870" timestr="Wed Sep 11 09:57:50 2024"></finished><hosts up="1" down="0" total="1"></hosts></runstats></nmaprun>

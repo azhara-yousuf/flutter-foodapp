@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.15.1" profile_name="" scanner="nmap" start="1726028966" startstr="Wed Sep 11 09:59:26 2024" version="7.95" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.95 ( https://nmap.org ) at 2024-09-11 09:59 India Standard Time
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.46 seconds
+</output><runstats><finished time="1726028969" timestr="Wed Sep 11 09:59:29 2024"></finished><hosts up="0" down="1" total="1"></hosts></runstats></nmaprun>
